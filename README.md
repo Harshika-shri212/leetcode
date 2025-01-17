@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/Harshika-shri212/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/Harshika-shri212/leetcode/tree/master/1642-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Harshika-shri212/leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
