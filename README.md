@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshika-shri212/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
