@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Harshika-shri212/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Harshika-shri212/leetcode/tree/master/1642-water-bottles) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Harshika-shri212/leetcode/tree/master/0283-move-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
