@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harshika-shri212/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Harshika-shri212/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Harshika-shri212/leetcode/tree/master/1642-water-bottles) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshika-shri212/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Harshika-shri212/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshika-shri212/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Harshika-shri212/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshika-shri212/leetcode/tree/master/0283-move-zeroes) |
 ## Number Theory
 |  |
