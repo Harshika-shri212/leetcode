@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harshika-shri212/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Harshika-shri212/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshika-shri212/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Harshika-shri212/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Harshika-shri212/leetcode/tree/master/0189-rotate-array) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Harshika-shri212/leetcode/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Harshika-shri212/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
