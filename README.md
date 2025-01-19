@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harshika-shri212/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshika-shri212/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Harshika-shri212/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0063-unique-paths-ii) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshika-shri212/leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
