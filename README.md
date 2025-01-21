@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Harshika-shri212/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harshika-shri212/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Harshika-shri212/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshika-shri212/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshika-shri212/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -164,5 +165,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Harshika-shri212/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Harshika-shri212/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Harshika-shri212/leetcode/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshika-shri212/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
