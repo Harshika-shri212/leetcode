@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Harshika-shri212/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Harshika-shri212/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harshika-shri212/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Harshika-shri212/leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Harshika-shri212/leetcode/tree/master/1642-water-bottles) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harshika-shri212/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Harshika-shri212/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harshika-shri212/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
