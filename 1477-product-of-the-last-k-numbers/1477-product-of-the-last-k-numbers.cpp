@@ -10,7 +10,7 @@ public:
     }
     
     int getProduct(int k) {
-        if (k > (int)v.size()) return 0; 
+        // if (k > (int)v.size()) return 0; 
 
         int prod = 1;
         int start = v.size() - k; 
