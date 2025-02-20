@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harshika-shri212/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -263,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshika-shri212/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0838-design-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
