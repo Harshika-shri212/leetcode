@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harshika-shri212/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Harshika-shri212/leetcode/tree/master/0792-binary-search) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Harshika-shri212/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harshika-shri212/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Harshika-shri212/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Harshika-shri212/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Harshika-shri212/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
