@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Harshika-shri212/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshika-shri212/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Harshika-shri212/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Harshika-shri212/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Harshika-shri212/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshika-shri212/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshika-shri212/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Harshika-shri212/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Harshika-shri212/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Harshika-shri212/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Harshika-shri212/leetcode/tree/master/0127-word-ladder) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Harshika-shri212/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Harshika-shri212/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Harshika-shri212/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
