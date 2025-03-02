@@ -1,18 +1,40 @@
 class Solution {
 public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) {
-        map<int,int> m;
+        int i = 0;
+        int j = 0;
 
-        for(auto nums : nums1){
-            m[nums[0]] = nums[1];
-        }
-        for(auto nums : nums2){
-            m[nums[0]] += nums[1];
-        }
+        int n = nums1.size();
+        int m = nums2.size();
+
         vector<vector<int>> res;
-        for(auto it : m){
-            res.push_back({it.first , it.second});
+
+        while(i < n && j < m){
+            if(nums1[i][0] == nums2[j][0]){
+                res.push_back({nums1[i][0] , nums1[i][1] + nums2[j][1]});
+                i+=1;
+                j+=1;
+            }
+            else if(nums1[i][0] < nums2[j][0]){
+                res.push_back({nums1[i][0], nums1[i][1]});
+                i += 1;
+            }
+            else{
+                res.push_back({nums2[j][0] , nums2[j][1]});
+                j += 1;
+            }
         }
+
+        while(i < n){
+            res.push_back({nums1[i][0] , nums1[i][1]});
+            i += 1;
+        }
+
+        while(j < m){
+            res.push_back({nums2[j][0] , nums2[j][1]});
+            j += 1;
+        }
+
         return res;
     }
 };
