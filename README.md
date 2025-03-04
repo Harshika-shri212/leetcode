@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harshika-shri212/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Harshika-shri212/leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Harshika-shri212/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Harshika-shri212/leetcode/tree/master/1170-shortest-common-supersequence) |
