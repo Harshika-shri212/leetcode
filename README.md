@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshika-shri212/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Harshika-shri212/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Harshika-shri212/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Harshika-shri212/leetcode/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Harshika-shri212/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Harshika-shri212/leetcode/tree/master/0127-word-ladder) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshika-shri212/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshika-shri212/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Harshika-shri212/leetcode/tree/master/0127-word-ladder) |
