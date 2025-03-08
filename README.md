@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Harshika-shri212/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/Harshika-shri212/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harshika-shri212/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Harshika-shri212/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Simulation
 |  |
 | ------- |
@@ -433,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harshika-shri212/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Harshika-shri212/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
