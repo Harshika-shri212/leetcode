@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harshika-shri212/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harshika-shri212/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/Harshika-shri212/leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Harshika-shri212/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harshika-shri212/leetcode/tree/master/0258-add-digits) |
+| [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Harshika-shri212/leetcode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Harshika-shri212/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshika-shri212/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshika-shri212/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshika-shri212/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshika-shri212/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Harshika-shri212/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshika-shri212/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
