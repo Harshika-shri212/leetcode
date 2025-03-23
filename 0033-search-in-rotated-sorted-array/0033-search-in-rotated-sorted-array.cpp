@@ -1,31 +1,31 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int partition = findmin(nums , 0 , nums.size()-1 );
-        int ind = bs(nums , partition , nums.size()-1, target);
-        if (ind == -1) {
-            int ind2 = bs(nums , 0 , partition-1, target );
-            return ind2;
+        int ind = findMin(nums);
+        int res = bs(nums , ind , nums.size() - 1 , target);
+        if(res == -1){
+            res = bs(nums , 0 , ind - 1 , target);
         }
-        else return ind;
-        
+        return res;
     }
 
-    int findmin(vector<int>& nums , int low , int high){
-        while (low<= high){
-            int mid = (low + high) / 2;
-            if (nums[mid] > nums[nums.size()-1]) low = mid + 1;
-            else high = mid - 1;
+    int findMin(vector<int>& nums) {
+        int l = 0;
+        int r = nums.size() - 1;
+        while(l < r){
+            int mid = l + (r - l)/2;
+            if(nums[mid] > nums[r]) l = mid + 1;
+            else r = mid;
         }
-        return low;
+        return l;
     }
 
-    int bs(vector<int>& nums, int low, int high , int target){
-        while(low <= high){
-            int mid = (low + high) / 2;
-            if (nums[mid] == target) return mid;
-            else if (nums[mid] > target) high = mid - 1;
-            else low = mid + 1;
+    int bs(vector<int>& nums , int l , int r , int &target){
+        while(l <= r){
+            int mid = l + (r - l)/2;
+            if(nums[mid] == target) return mid;
+            else if(nums[mid] > target) r = mid -1;
+            else l = mid + 1;
         }
         return -1;
     }
