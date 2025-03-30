@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshika-shri212/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshika-shri212/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/Harshika-shri212/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Harshika-shri212/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshika-shri212/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0768-partition-labels](https://github.com/Harshika-shri212/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Harshika-shri212/leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Harshika-shri212/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshika-shri212/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshika-shri212/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/Harshika-shri212/leetcode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshika-shri212/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshika-shri212/leetcode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Harshika-shri212/leetcode/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshika-shri212/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harshika-shri212/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Harshika-shri212/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
