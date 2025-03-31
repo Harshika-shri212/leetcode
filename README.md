@@ -558,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Harshika-shri212/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Harshika-shri212/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
