@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Harshika-shri212/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Harshika-shri212/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Harshika-shri212/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harshika-shri212/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Harshika-shri212/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Harshika-shri212/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/Harshika-shri212/leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
