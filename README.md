@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Harshika-shri212/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harshika-shri212/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Harshika-shri212/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshika-shri212/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Harshika-shri212/leetcode/tree/master/0120-triangle) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshika-shri212/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshika-shri212/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Harshika-shri212/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshika-shri212/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Harshika-shri212/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harshika-shri212/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Harshika-shri212/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harshika-shri212/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Harshika-shri212/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Harshika-shri212/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshika-shri212/leetcode/tree/master/0151-reverse-words-in-a-string) |
