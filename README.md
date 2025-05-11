@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Harshika-shri212/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Harshika-shri212/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Harshika-shri212/leetcode/tree/master/1127-last-stone-weight) |
+| [1293-three-consecutive-odds](https://github.com/Harshika-shri212/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/Harshika-shri212/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Harshika-shri212/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harshika-shri212/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
