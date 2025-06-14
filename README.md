@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Harshika-shri212/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Harshika-shri212/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Harshika-shri212/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Harshika-shri212/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harshika-shri212/leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Harshika-shri212/leetcode/tree/master/0268-missing-number) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Harshika-shri212/leetcode/tree/master/0146-lru-cache) |
 | [0838-design-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harshika-shri212/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Harshika-shri212/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshika-shri212/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Harshika-shri212/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Harshika-shri212/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0838-design-linked-list) |
@@ -665,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Harshika-shri212/leetcode/tree/master/0948-sort-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Harshika-shri212/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
