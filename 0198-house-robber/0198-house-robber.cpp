@@ -1,27 +1,23 @@
 class Solution {
 public:
-
-    int fn(vector<int>& nums , vector<int>& dp , int ind){
-        if(ind == 0) return nums[0];
-        if(ind == 1) return nums[1];
-
-        if(dp[ind] != -1) return dp[ind];
-
-        int ans = INT_MIN;
-        for(int i = ind-2 ; i >= 0 ; i--){
-            int num = fn(nums , dp , i) + nums[ind];
-            ans = max(num , ans);
-        }
-        return dp[ind] = ans;
-    }
-
-
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>dp(n , -1);
-        int a = fn(nums , dp , n-1);
-        int b = INT_MIN;
-        if(n-2 >= 0) b = fn(nums , dp , n-2);
-        return max(a,b);
+        if (n == 0) return 0;
+        if (n == 1) return nums[0];
+        // if (n == 2) return max(nums[0], nums[1]);
+
+        vector<int> dp(n, 0);
+        dp[0] = nums[0];
+        dp[1] = nums[1];
+
+        for (int ind = 2; ind < n; ++ind) {
+            int maxVal = INT_MIN;
+            for (int i = 0; i <= ind - 2; ++i) {
+                maxVal = max(maxVal, dp[i] + nums[ind]);
+            }
+            dp[ind] = maxVal;
+        }
+
+        return max(dp[n - 1], dp[n - 2]);
     }
 };
