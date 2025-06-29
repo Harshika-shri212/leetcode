@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0741-cherry-pickup](https://github.com/Harshika-shri212/leetcode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harshika-shri212/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Harshika-shri212/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshika-shri212/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0741-cherry-pickup](https://github.com/Harshika-shri212/leetcode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harshika-shri212/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Harshika-shri212/leetcode/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Harshika-shri212/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0741-cherry-pickup](https://github.com/Harshika-shri212/leetcode/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Harshika-shri212/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Harshika-shri212/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
