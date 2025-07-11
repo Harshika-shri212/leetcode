@@ -1,21 +1,20 @@
 class Solution {
 public:
-
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>>dp(n + 1 , vector<int>(n+1 , 0));
-        
-        for(int ind = n - 1 ; ind >= 0 ; ind--){
-            for(int prev = ind - 1 ; prev >= -1 ; prev--){
-                int not_take = dp[ind + 1][prev + 1] + 0 ; 
-                int take = 0;
-                if(prev == -1 || nums[ind] > nums[prev]){
-                    take = dp[ind + 1][ind+1] + 1;
+        vector<int>arr(n , 1);
+
+        for(int i = 1 ; i < n ; i++){
+            for(int j = 0 ; j < i ; j++){
+                if(nums[j] < nums[i]){
+                    int val = 1 + arr[j];
+                    arr[i] = max(val , arr[i]);
                 }
-                dp[ind][prev + 1] = max(take , not_take);
             }
         }
 
-        return dp[0][-1 + 1];
+        int ans = *max_element(arr.begin() , arr.end());
+
+        return ans;
     }
 };
