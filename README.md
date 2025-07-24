@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Harshika-shri212/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Harshika-shri212/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Harshika-shri212/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Harshika-shri212/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshika-shri212/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Harshika-shri212/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshika-shri212/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Harshika-shri212/leetcode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Harshika-shri212/leetcode/tree/master/0948-sort-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshika-shri212/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Harshika-shri212/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshika-shri212/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshika-shri212/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Harshika-shri212/leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Harshika-shri212/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Harshika-shri212/leetcode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Harshika-shri212/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshika-shri212/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshika-shri212/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshika-shri212/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Harshika-shri212/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Harshika-shri212/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshika-shri212/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Harshika-shri212/leetcode/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshika-shri212/leetcode/tree/master/2032-largest-odd-number-in-string) |
