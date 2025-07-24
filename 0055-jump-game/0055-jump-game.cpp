@@ -1,17 +1,20 @@
 class Solution {
 public:
-    bool traverse(int indi ,vector<int> &nums ,vector<int> &dp ){
-        if(indi == nums.size()-1) return true;
-        if (dp[indi] != -1) return dp[indi];
-        for (int i = 1; i<=nums[indi] ; i++){
-            if (traverse(indi+i , nums , dp)){
-                return true;
-            }
-        }
-        return dp[indi] = false;
-    }
     bool canJump(vector<int>& nums) {
-        vector<int> dp(nums.size() , -1);
-        return traverse(0 , nums , dp);
+        int n = nums.size();
+
+        int st = 0;
+        int i = 0;
+        while(i < n){
+            if(st >= i){
+                int cur = nums[i] + i;
+                st = max(st , cur);
+                i += 1;
+                if (st >= n - 1) return true;
+            }
+            else return false;
+        }
+        if (st >= n - 1) return true;
+        return false;
     }
 };
