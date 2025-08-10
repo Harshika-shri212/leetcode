@@ -20,9 +20,10 @@ public:
             }
             col++;
 
-            
+            row = numRows - 2;
             for (int k = 0; k < cross - 1 && i < n; k++) {
-                res[numRows - 2 - k][col] = s[i++];
+                res[row][col] = s[i++];
+                row--;
                 col++;
             }
         }
